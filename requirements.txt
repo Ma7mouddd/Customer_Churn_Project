@@ -1,0 +1,11 @@
+import matplotlib.pyplot
+import pandas as pd
+import numpy as np
+import base64
+import seaborn
+import urllib
+import warnings
+import streamlit 
+pip install mlflow
+pip install sklearn
+pip install lightgbm
