@@ -1,8 +1,10 @@
+pip>=24.3
 matplotlib
 pandas
 numpy<=1.25.0
 seaborn
-setuptools
+setuptools>=65.5.1
+wheel
 distutils
 urllib3  # Note: `urllib` is part of Python's standard library, but `urllib3` is the installable package
 warnings  # No need to include `warnings`, as it's part of Python's standard library
