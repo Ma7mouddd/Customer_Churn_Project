@@ -1,4 +1,4 @@
-pip>=24.3
+pip>=24.3.1
 matplotlib
 pandas
 numpy<=1.25.0
