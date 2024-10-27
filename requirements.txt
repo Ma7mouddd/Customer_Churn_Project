@@ -1,7 +1,6 @@
 matplotlib
 pandas
-numpy
-base64
+numpy<=1.25.0
 seaborn
 urllib3  # Note: `urllib` is part of Python's standard library, but `urllib3` is the installable package
 warnings  # No need to include `warnings`, as it's part of Python's standard library
